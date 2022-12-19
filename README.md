@@ -1,3 +1,7 @@
+> **Note**
+> This fork is used for [GISNav](https://github.com/hmakelin/gisnav.git) development. Please see the
+> [comparison page](https://github.com/PX4/PX4-SITL_gazebo/compare/main...hmakelin:PX4-SITL_gazebo:main) for changes to the original on the main branch.
+
 # PX4 Gazebo Plugin Suite for MAVLink SITL and HITL
 
 [![Build Status](https://github.com/PX4/sitl_gazebo/workflows/Build%20Tests/badge.svg)](https://github.com/PX4/sitl_gazebo/actions?query=workflow%3A%22Build+Tests%22) [![MacOS Build Tests](https://github.com/PX4/sitl_gazebo/workflows/MacOS%20Build%20Tests/badge.svg)](https://github.com/PX4/sitl_gazebo/actions?query=workflow%3A%22MacOS+Build+Tests%22) 
